@@ -1,9 +1,7 @@
-websocket-client
-tls-client
-terminut
-colored
-colorama
-veilcord
-requests
-toml
-httpx
+selenium==4.15.2
+webdriver-manager==4.0.1
+Flask-SocketIO==5.3.6
+regex==2023.10.3
+beautifulsoup4==4.12.2
+requests==2.31.0
+Flask-Cors==4.0.0
