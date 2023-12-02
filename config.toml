@@ -1,0 +1,21 @@
+# for new versions buy at discord.gg/vast || shop.vast.sh
+
+
+[ profile ]
+enableDev = true
+addHype   = true
+addPFP    = false
+addBio    = false
+
+
+[ data ]
+username  = "" # blank = random
+joinGuild = "vast" # invite code ~ blank = dont join
+threads   = 2
+debug     = true
+showLockd = false
+
+
+[ captcha ]
+service  = "CAPSOLVER"
+capKey   = 'CAP-A02A52B6DEF9C9EB03BC10980CCB6F22'
