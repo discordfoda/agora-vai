@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "fds.py",
+      "use":"@vercel/python"
+    }
+  ],
+  "routes":[
+    {
+      "src":"/(.*)",
+      "dest":"fds.py"
+    }
+  ]
+}
